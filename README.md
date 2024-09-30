@@ -17,3 +17,12 @@ I'm Yael Karat (<a herf="https://github.com/Yael-Karat">@Yael-Karat</a>), a pass
 <p>
    📫<a href='mailto:yaelkarat01@gmail.com'>yaelkarat01@gmail.com</a>
 </p>
+
+<p>
+   <a href="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/Yael-karat/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/></a>
+</p>
+
