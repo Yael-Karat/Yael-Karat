@@ -27,7 +27,6 @@ I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a pass
    <a href="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true"/></a>
    <h2 class="heading-element" dir="auto">🔥 Top Languages</h2>
-   <a href="https://github.com/Yael-karat/github-readme-stats">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/></a>
 </p>
-
