@@ -17,44 +17,21 @@ I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a pass
 </ul>
 
 <h2>🛠️ Technologies & Tools</h2>
-
 <p>
-  <a href="https://www.python.org" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://isocpp.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://reactjs.org" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://kotlinlang.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://sqlite.org" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-  <a href="https://duckdb.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/DuckDB-FFCB05?style=for-the-badge&logo=duckduckgo&logoColor=black" alt="DuckDB"/>
-  </a>
-  <a style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Test%20Automation-43B02A?style=for-the-badge" alt="Test Automation"/>
-  </a>
-  <a href="https://www.linux.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  </a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+  <br/>
+  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-FFCB05?style=for-the-badge&logo=duckduckgo&logoColor=black"/></a>
+  <a><img src="https://img.shields.io/badge/Test%20Automation-43B02A?style=for-the-badge"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/></a>
 </p>
 
 <h2>📫 Get in Touch</h2>
