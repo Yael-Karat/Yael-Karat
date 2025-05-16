@@ -1,6 +1,16 @@
-<h1>Hi there👋</h1>
-<p dir="auto">
-I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer and a B.Sc. Computer Science with a strong interest in Web Development and Test Automation.
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer typing animation" width="600"/>
+</p>
+
+<h1>Hi there 👋 & welcome to my GitHub!</h1>
+
+<p>
+  I'm <strong>Yael Karat</strong> (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer with a B.Sc. in Computer Science.<br/>
+  I enjoy building web apps, automating tests, and continuously learning new technologies.
+</p>
+
+<p>
+  🚀 Let's code something amazing together!
 </p>
 
 <h2>👩🏼‍💻 About Me</h2>
