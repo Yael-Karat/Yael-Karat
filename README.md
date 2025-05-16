@@ -30,3 +30,15 @@ I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a pass
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/></a>
 </p>
+<section>
+  <p dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
+      <img src="https://img.shields.io/github/followers/Yael-Karat?style=social&label=Follow" alt="GitHub followers" style="max-width: 100%;">
+    </a>
+  </p>
+  <p dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
+      <img src="https://komarev.com/ghpvc/?username=Yael-Karat&style=flat-square" alt="Profile views" style="max-width: 100%;">
+    </a>
+  </p>
+</section>
