@@ -6,7 +6,15 @@ I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a pass
 <h2>👩🏼‍💻 About Me</h2>
 <ul>
    <li>
-      💻 <strong>Developer:</strong> Skills: web technologies: HTML, JavaScript and React. additional skills: Python, Java and Test Automation Frameworks.
+      💻 <strong>Developer:</strong> Web technologies: 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, 
+      <a href="https://reactjs.org/">React</a>. 
+      Additional skills: 
+      <a href="https://www.python.org/">Python</a>, 
+      <a href="https://www.java.com/">Java</a>, 
+      <a href="https://isocpp.org/">C/C++</a>, 
+      <a href="https://www.browserstack.com/guide/what-is-test-automation">Test Automation Frameworks</a>.
    </li>
    <li>
       🎓 <strong>Computer Science Degree:</strong> Learned many interesting courses like: Web Development, Software Testing & Automation and more.
