@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 <p dir="auto">
-I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer and a B.Sc. Computer Science with a strong interest in Web Development, Python and Test Automation.
+I'm Yael Karat (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer and a B.Sc. Computer Science with a strong interest in Web Development and Test Automation.
 </p>
 
 <h2>👩🏼‍💻 About Me</h2>
