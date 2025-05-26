@@ -68,6 +68,7 @@
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/>
 </a>
 
+<h2>📈 Profile Insights</h2>
 <section>
   <p dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
