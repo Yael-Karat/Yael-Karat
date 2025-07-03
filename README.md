@@ -1,91 +1,101 @@
-”<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer typing animation" width="600"/>
-</p>
-
-<h1>Hi there 👋 & welcome to my GitHub!</h1>
-
-<p>
-  I'm <strong>Yael Karat</strong> (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer with a B.Sc. in Computer Science.<br/>
-  I enjoy building web apps, automating tests, and continuously learning new technologies.
-</p>
-
-<p>
-  🚀 Let's code something amazing together!
-</p>
-
-<h2>👩🏼‍💻 About Me</h2>
-<ul>
-   <li>
-      💻 <strong>Developer:</strong> Web technologies: 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, 
-      <a href="https://reactjs.org/">React</a>. 
-      Additional skills: 
-      <a href="https://www.python.org/">Python</a>, 
-      <a href="https://www.java.com/">Java</a>, 
-      <a href="https://isocpp.org/">C/C++</a>, 
-      <a href="https://www.browserstack.com/guide/what-is-test-automation">Test Automation Frameworks</a>.
-   </li>
-   <li>
-      🎓 <strong>Computer Science Degree:</strong> Learned many interesting courses like: Web Development, Software Testing & Automation and more.
-   </li>
-   <li>
-      📚 <strong>Lifelong Learner:</strong> Constantly improving my skills through new projects and courses.
-   </li>
-</ul>
-
-<h2>🛠️ Technologies & Tools</h2>
-<p>
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/></a>
-  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-  <br/>
-  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/></a>
-  <a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf Badge"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/></a>
-  <a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-FFCB05?style=for-the-badge&logo=duckduckgo&logoColor=black"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/></a>
-</p>
-
-<h2>📫 Get in Touch</h2>
-<a href="https://www.linkedin.com/in/yael-karat-9320742a8/">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"/></a>
-<a href='mailto:yaelkarat01@gmail.com'>
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer typing animation" width="600"/>
+  </p>
   
-<h2>📊 GitHub Stats</h2>
-<a href="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true"/>
-</a>
-
-<h2>🔥 Top Languages</h2>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/>
-</a>
-
-<h2>📈 Profile Insights</h2>
-<section>
-  <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
-      <img src="https://img.shields.io/github/followers/Yael-Karat?style=social&label=Follow" alt="GitHub followers" style="max-width: 100%;">
-    </a>
+  <h1>Hi there 👋 & welcome to my GitHub!</h1>
+  
+  <p>
+    I'm <strong>Yael Karat</strong> (<a href="https://github.com/Yael-Karat">@Yael-Karat</a>), a passionate software developer with a B.Sc. in Computer Science.<br/>
+    I enjoy building web apps, automating tests, and continuously learning new technologies.
   </p>
-  <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
-      <img src="https://komarev.com/ghpvc/?username=Yael-Karat&style=flat-square" alt="Profile views" style="max-width: 100%;">
-    </a>
+  
+  <p>
+    🚀 Let's code something amazing together!
   </p>
-</section>
+  
+  <h2>👩🏼‍💻 About Me</h2>
+  <ul>
+     <li>
+        💻 <strong>Developer:</strong> Web technologies: 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, 
+        <a href="https://reactjs.org/">React</a>. 
+        Additional skills: 
+        <a href="https://www.python.org/">Python</a>, 
+        <a href="https://www.java.com/">Java</a>, 
+        <a href="https://isocpp.org/">C/C++</a>, 
+        <a href="https://www.browserstack.com/guide/what-is-test-automation">Test Automation Frameworks</a>.
+     </li>
+     <li>
+        🎓 <strong>Computer Science Degree:</strong> Learned many interesting courses like: Web Development, Software Testing & Automation and more.
+     </li>
+     <li>
+        📚 <strong>Lifelong Learner:</strong> Constantly improving my skills through new projects and courses.
+     </li>
+  </ul>
+  
+  <h2>🛠️ Technologies & Tools</h2>
+  
+  <div align="center">
+    <!-- שורה 1 -->
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+    <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+  </div>
+  
+  <div align="center">
+    <!-- שורה 2 -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+    <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  </div>
+  
+  <div align="center">
+    <!-- שורה 3 -->
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+    <a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  </div>
+  
+  <div align="center">
+    <!-- שורה 4 -->
+    <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="https://duckdb.org/"><img src="https://img.shields.io/badge/DuckDB-FFCB05?style=for-the-badge&logo=duckduckgo&logoColor=black"/></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/></a>
+  </div>
+  
+  
+  <h2>📫 Get in Touch</h2>
+  <a href="https://www.linkedin.com/in/yael-karat-9320742a8/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"/></a>
+  <a href='mailto:yaelkarat01@gmail.com'>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    
+  <h2>📊 GitHub Stats</h2>
+  <a href="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true">
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Yael-Karat&show_icons=true&count_private=true"/>
+  </a>
+  
+  <h2>🔥 Top Languages</h2>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yael-Karat&layout=compact"/>
+  </a>
+  
+  <h2>📈 Profile Insights</h2>
+  <section>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
+      <img src="https://img.shields.io/github/followers/Yael-Karat?style=social&label=Follow" alt="GitHub followers" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yael-Karat">
+      <img src="https://komarev.com/ghpvc/?username=Yael-Karat&style=flat-square" alt="Profile views" style="max-width: 100%;"></a>
+  </section>
+</div>
