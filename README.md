@@ -1,8 +1,5 @@
 <div align="center">
-  <p>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer typing animation" width="600"/>
-  </p>
-  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer typing animation" width="600"/>
   <h1>Hi there 👋 & welcome to my GitHub!</h1>
   
   <p>
